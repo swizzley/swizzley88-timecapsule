@@ -21,7 +21,7 @@ describe 'timecapsule', :type => 'class' do
     }
   end
 
-  context "On an unknown OS with no package name specified" do
+  context "On an unknown OS" do
     let :facts do
       {
         :osfamily => 'Darwin'

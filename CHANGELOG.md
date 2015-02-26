@@ -1,5 +1,9 @@
 # Changelog swizzley88-timecapsule#
 
+##2015-- - 1.0.3
+- RHEL OS case select
+- specs and tests added for travis-ci
+
 
 ##2015-02-25 - 1.0.2
 - manage user/group by defaut
