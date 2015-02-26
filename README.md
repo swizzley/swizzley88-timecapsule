@@ -1,5 +1,7 @@
 # timecapsule #
 
+[![Build Status](https://travis-ci.org/swizzley/swizzley88-timecapsule.svg?branch=master)](https://travis-ci.org/swizzley/swizzley88-timecapsule)
+
 **Table of Contents**
 
 1. [Overview](#overview)
