@@ -1,0 +1,44 @@
+{
+	"author": "Dustin Morgan <morgan@aspendenver.org>",
+	"dependencies": [{
+			"name": "puppetlabs/stdlib",
+			"version_requirement": ">= 4.2.0 < 6.0.0"
+		},{
+			"name": "puppetlabs/firewall",
+			"version_requirement": ">= 1.1.3 < 3.0.0"
+		}
+	],
+	"issues_url": "https://github.com/swizzley/puppet/issues",
+	"license": "Apache-2.0",
+	"name": "swizzley88-timecapsule",
+	"operatingsystem_support": [{
+			"operatingsystem": "RedHat",
+			"operatingsystemrelease": [ "7"
+			]
+		},{
+			"operatingsystem": "Fedora",
+			"operatingsystemrelease": [ "20"
+			]
+		},{
+			"operatingsystem": "CentOS",
+			"operatingsystemrelease": [ "7"
+			]
+		}
+	],
+	"project_page": "https://github.com/swizzley/swizzley88-timecapsule",
+	"requirements": [{
+			"name": "pe",
+			"version_requirement": ">= 3.3.0 < 4.0.0"
+		},{
+			"name": "puppet",
+			"version_requirement": ">= 3.0.0 < 4.0.0"
+		}
+	],
+	"source": "https://github.com/swizzley/swizzley88-timecapsule",
+	"summary": "Puppet module for an open time capsule / time machine backup server working with latest Mac OSX Yosemite client for EL7, Fedora 20.",
+	"tags": [ "timemachine",
+		"mac",
+		"backup"
+	],
+	"version": "1.0.2"
+}

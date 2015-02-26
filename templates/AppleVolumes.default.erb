@@ -1,0 +1,4 @@
+# The line below sets some DEFAULT, starting with Netatalk 2.1.
+:DEFAULT: options:upriv,usedots
+
+<%= @mount %> "TimeCapsule" allow:<%= @user %>,@<%= @user %> options:usedots,upriv,tm dperm:0775 fperm:0660 cnidscheme:dbd
