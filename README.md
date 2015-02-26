@@ -1,6 +1,6 @@
 # timecapsule #
 
-[![Puppet Forge](https://img.shields.io/badge/puppetforge-1.1.0-blue.svg)](https://forge.puppetlabs.com/swizzley88/timecapsule)
+[![Puppet Forge](https://img.shields.io/badge/puppetforge-v1.1.0-blue.svg)](https://forge.puppetlabs.com/swizzley88/timecapsule)
 [![Build Status](https://travis-ci.org/swizzley/swizzley88-timecapsule.svg?branch=master)](https://travis-ci.org/swizzley/swizzley88-timecapsule)
 
 **Table of Contents**
